@@ -2,8 +2,8 @@ DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
             'NAME': 'eat_db',
-            'USER': 'newuser',
-            'PASSWORD': 'password',
+            'USER': 'ubuntu',
+            'PASSWORD': '1530',
             'HOST': 'localhost',
             'PORT': '3306',
             }

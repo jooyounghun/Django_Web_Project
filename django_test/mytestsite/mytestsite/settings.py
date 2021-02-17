@@ -29,7 +29,7 @@ SECRET_KEY = my_settings.SECRET_KEY
 DEBUG = True
 #DEBUG = False
 
-ALLOWED_HOSTS = ['3.36.132.49']
+ALLOWED_HOSTS = ['54.180.145.12']
 
 
 # Application definition
